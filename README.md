@@ -30,4 +30,4 @@ I am only answering in those three, and in here of course.
 
 This always happens, you think everything is ready and the most unexpected thing blows up in your face...
 
-Expect the unexpected and have more contingency plans than Batman.
+Expect the unexpected.
