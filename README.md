@@ -1,6 +1,6 @@
 # Lucas Varsky
 ### Hello There! 👾
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raxelgrande&layout=pie&theme=solarized-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raxelgrande&layout=pie&theme=monokai)
 # My Best Work🛠️:
 ### [Iris: TUI utility to simplify and manage theming on Linux](https://github.com/Raxelgrande/Iris)
 
