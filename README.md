@@ -12,7 +12,7 @@ I am from Argentina, but I'm living in Ecuador and I'm 19 years old. I get frust
 
 I am fluent on both Spanish and English (no certification yet, but hey, who wrote this?)
 
-I also enjoy using Linux (Arch Linux FTW!), it's just a better way to use a computer, especially in cases where you lack computing power (like mine).
+I also enjoy using Linux, it's just a better way to use a computer, especially in cases where you lack computing power (like mine).
 
 Currently searching for a programming language I enjoy using, so I can deepen my skils without being stuck in a language that doesn't suit me. I take recommendations.
 I am looking to be employed, if you like what you see, please contact me.
