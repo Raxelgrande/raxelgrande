@@ -7,14 +7,14 @@
 # About Me🧙‍♂️:
 Welcome to my profile, I don't have much to show right now, as im getting my programming skills up and running, but I can tell you some things about me. 
 
-I am from Argentina, but I'm living in Ecuador and I'm 19 years old. I get frustrated when I see bugs or a myriad of problems in code, I still don't have the skills to solve them on other people's projects, but I assure you, I'm going to make a good bug report.
+I am from Argentina, but I'm living in Ecuador and I'm 19 years old. I get frustrated when I see bugs or a myriad of problems in code, I am training the skills to solve them on other people's projects, but I assure you, I'm going to make a good bug report and if i annoy you about it i will be polite.
 
 
 I am fluent on both Spanish and English (no certification yet, but hey, who wrote this?)
 
 I also enjoy using Linux, it's just a better way to use a computer, especially in cases where you lack computing power (like mine).
 
-Currently searching for a programming language I enjoy using, so I can deepen my skils without being stuck in a language that doesn't suit me. I take recommendations.
+I like JVM languages.
 I am looking to be employed, if you like what you see, please contact me.
 
 ### ☎️Contact☎️:
