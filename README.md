@@ -3,6 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raxelgrande&layout=pie&theme=monokai)
 # My Best Work🛠️:
 ### [Iris: TUI utility to simplify and manage theming on Linux](https://github.com/Raxelgrande/Iris)
+### [Awesome Touhou: Awesome Markdown list for everything related to the Touhou games franchise](https://github.com/Raxelgrande/awesome-touhou)
 
 # About Me🧙‍♂️:
 Welcome to my profile, I don't have much to show right now, as im getting my programming skills up and running, but I can tell you some things about me. 
