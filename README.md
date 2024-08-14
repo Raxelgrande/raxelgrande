@@ -15,7 +15,6 @@ I am fluent on both Spanish and English (no certification yet, but hey, who wrot
 
 I also enjoy using Linux, it's just a better way to use a computer, especially in cases where you lack computing power (like mine).
 
-I like JVM languages.
 I am looking to be employed, if you like what you see, please contact me.
 
 ### ☎️Contact☎️:
