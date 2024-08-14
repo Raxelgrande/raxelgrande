@@ -1,6 +1,6 @@
 # Pepi/Raxelgrande
 ### Hello There! 👾
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raxelgrande&layout=pie&theme=monokai)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raxelgrande&layout=pie&theme=dracula)
 # My Best Work🛠️:
 ### [Iris: TUI utility to simplify and manage theming on Linux](https://github.com/Raxelgrande/Iris)
 ### [Awesome Touhou: Awesome Markdown list for everything related to the Touhou games franchise](https://github.com/Raxelgrande/awesome-touhou)
