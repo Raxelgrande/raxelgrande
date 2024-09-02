@@ -19,7 +19,7 @@ I am looking to be employed, if you like what you see, please contact me.
 
 ### ☎️Contact☎️:
 ### Discord: raxelgrande
-### Twitter: @raxelgrande
+### Bluesky: @raxelgrande.bsky.social
 ### Mail: lucasvbm2@gmail.com
 I am only answering in those three, and in here of course.
 
